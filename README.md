@@ -1,8 +1,8 @@
 # Code Fellows App-A-Day: Favorite Questions
 
-#### Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes. This type of questioning allows one to explore complex ideas deeper, find the truth of things, open up issues and problems, uncover assumptions, analyze concepts, follow our logical implications of thought, and control discussions. It is through meaningful conversation and meaningful questions that one gains exceptional learning and understanding of a topic.
+Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes. This type of questioning allows one to explore complex ideas deeper, find the truth of things, open up issues and problems, uncover assumptions, analyze concepts, follow our logical implications of thought, and control discussions. It is through meaningful conversation and meaningful questions that one gains exceptional learning and understanding of a topic.
 
-#### This is a simple application to track those meaningful questions and answers. _Remember: No question is a dumb question!_
+This is a simple application to track those meaningful questions and answers. _Remember: No question is a dumb question!_
 
 
 ### Submitting your question  
