@@ -18,3 +18,7 @@ This is a simple application to track those meaningful questions and answers. _R
 This collection of questions and answers will be a valuable tool in your journey of learning!
 
 Author: Stephanie Datu (stephdatu@gmail.com)
+
+## License
+
+http://stephdatu.mit-license.org/
